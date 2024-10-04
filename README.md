@@ -1,3 +1,11 @@
-### I renamed my GitHub username to https://github.com/zaheerabbas21
+## GitHub Account Update
 
-This account will soon be deactivated. This account is re-created to redirect to my new updated username and will soon be deactivated.
+My GitHub account has been relocated to a new username:
+
+[https://github.com/zaheerabbas21](https://github.com/zaheerabbas21)
+
+The previous account:
+- Is temporarily active for redirection purposes
+- Will be deactivated in the near future
+
+Thanks for visiting 😄
